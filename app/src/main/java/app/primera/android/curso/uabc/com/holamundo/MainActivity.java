@@ -26,7 +26,7 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
         //Obtenemos mediante el findViewById el elemento del archivo XML
         miBoton= (Button) findViewById(R.id.mi_boton);
         miTexto=(TextView) findViewById(R.id.texto_hola_mundo);
-
+	////SOY UN CAMBIO DEL 2017 ....buuuu	
         // Agregar el escuchador del Boton
        /* miBoton.setOnClickListener(new View.OnClickListener() {
             @Override
